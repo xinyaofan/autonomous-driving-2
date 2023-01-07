@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 10 12:16:29 2020
-
-@author: qq429
-"""
 
 from utils import sign_able
 from utils import get_rmse
@@ -13,17 +7,6 @@ from utils import dynamics_time_data_t0
 from utils import Coor_T_xy_array
 import numpy as np
 from knn import KNN
-
-
-
-
-
-
-
-
-
-
-
 
 
 
